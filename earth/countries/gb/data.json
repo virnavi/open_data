@@ -1,1 +1,41 @@
-{"id":"ctry.gb","type":"country","name":{"default":"United Kingdom","translations":{"ko":"영국","pt-BR":"Reino Unido","pt":"Reino Unido","nl":"Verenigd Koninkrijk","hr":"Ujedinjeno Kraljevstvo","fa":"بریتانیای کبیر و ایرلند شمالی","de":"Vereinigtes Königreich","es":"Reino Unido","fr":"Royaume-Uni","ja":"イギリス","it":"Regno Unito","zh-CN":"英国","tr":"Birleşik Krallik","ru":"Великобритания","uk":"Сполучене Королівство","pl":"Wielka Brytania"}},"address":"United Kingdom","iso3166-1Alpha2":"gb","iso3166-1Alpha3":"gbr","capital":{"type":"","path":""},"images":{"flag":{"svg":{"path":"earth/countries/gb/images//flag.svg"}}},"region":"Europe","people":{"native":"United Kingdom","nationality":"British, UK"},"phone":{"code":"44"},"domain":{"tld":".uk"},"timezones":["Europe/London"]}
+{
+  "id": "ctry.gb",
+  "type": "country-union",
+  "name": {
+    "default": "United Kingdom",
+    "translations": {
+      "ko": "영국",
+      "pt-BR": "Reino Unido",
+      "pt": "Reino Unido",
+      "nl": "Verenigd Koninkrijk",
+      "hr": "Ujedinjeno Kraljevstvo",
+      "fa": "بریتانیای کبیر و ایرلند شمالی",
+      "de": "Vereinigtes Königreich",
+      "es": "Reino Unido",
+      "fr": "Royaume-Uni",
+      "ja": "イギリス",
+      "it": "Regno Unito",
+      "zh-CN": "英国",
+      "tr": "Birleşik Krallik",
+      "ru": "Великобритания",
+      "uk": "Сполучене Королівство",
+      "pl": "Wielka Brytania"
+    }
+  },
+  "address": "United Kingdom",
+  "iso3166-1Alpha2": "gb",
+  "iso3166-1Alpha3": "gbr",
+  "capital": {
+    "type": "",
+    "path": ""
+  },
+  "images": { "flag": { "svg": { "path": "earth/countries/gb/images//flag.svg" } } },
+  "region": "Europe",
+  "people": {
+    "native": "United Kingdom",
+    "nationality": "British, UK"
+  },
+  "phone": { "code": "44" },
+  "domain": { "tld": ".uk" },
+  "timezones": [ "Europe/London" ]
+}

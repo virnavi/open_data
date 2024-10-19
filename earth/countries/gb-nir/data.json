@@ -1,0 +1,24 @@
+{
+  "id": "ctry.gb.nir",
+  "type": "country",
+  "name": {
+    "default": "Northern Ireland",
+    "translations": {}
+  },
+  "address": "Northern Ireland, United Kingdom",
+  "iso3166-1Alpha2": "",
+  "iso3166-1Alpha3": "",
+  "capital": {
+    "type": "",
+    "path": ""
+  },
+  "images": { "flag": { "svg": { "path": "earth/countries/gb-nir/images/flag.svg" } } },
+  "region": "Europe",
+  "people": {
+    "native": "Irish",
+    "nationality": "British, UK"
+  },
+  "phone": { "code": "44" },
+  "domain": { "tld": ".uk" },
+  "timezones": [ "Europe/London" ]
+}

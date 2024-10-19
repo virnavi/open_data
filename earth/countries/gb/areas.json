@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "ctry.gb.eng",
+      "type": "country",
+      "name": "England",
+      "path": "earth/countries/gb-eng/data.json"
+    },
+    {
+      "id": "ctry.gb.nir",
+      "type": "country",
+      "name": "Northern Ireland",
+      "path": "earth/countries/gb-nir/data.json"
+    },
+    {
+      "id": "ctry.gb.sct",
+      "type": "country",
+      "name": "Scotland",
+      "path": "earth/countries/gb-sct/data.json"
+    },
+    {
+      "id": "ctry.gb.wls",
+      "type": "country",
+      "name": "Wales",
+      "path": "earth/countries/gb-wls/data.json"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "ctry.gb.sct",
+  "type": "country",
+  "name": {
+    "default": "Scotland",
+    "translations": {}
+  },
+  "address": "Scotland, United Kingdom",
+  "iso3166-1Alpha2": "",
+  "iso3166-1Alpha3": "",
+  "capital": {
+    "type": "",
+    "path": ""
+  },
+  "images": { "flag": { "svg": { "path": "earth/countries/gb-sct/images/flag.svg" } } },
+  "region": "Europe",
+  "people": {
+    "native": "Scottish",
+    "nationality": "British, UK"
+  },
+  "phone": { "code": "44" },
+  "domain": { "tld": ".uk" },
+  "timezones": [ "Europe/London" ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "ctry.gb.eng",
+  "type": "country",
+  "name": {
+    "default": "England",
+    "translations": {}
+  },
+  "address": "England, United Kingdom",
+  "iso3166-1Alpha2": "",
+  "iso3166-1Alpha3": "",
+  "capital": {
+    "type": "",
+    "path": ""
+  },
+  "images": { "flag": { "svg": { "path": "earth/countries/gb-eng/images/flag.svg" } } },
+  "region": "Europe",
+  "people": {
+    "native": "English",
+    "nationality": "British, UK"
+  },
+  "phone": { "code": "44" },
+  "domain": { "tld": ".uk" },
+  "timezones": [ "Europe/London" ]
+}
