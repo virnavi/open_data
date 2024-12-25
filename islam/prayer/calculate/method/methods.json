@@ -1,0 +1,243 @@
+{
+  "meta": {
+    "page": {
+      "current": 0,
+      "limit": 20,
+      "total": 0
+    }
+  },
+  "data": [
+    {
+      "id": "MWL",
+      "name": "Muslim World League",
+      "fajr": {
+        "type": "angle",
+        "data": {
+          "angle": 18.0
+        }
+      },
+      "maghrib": {
+        "type": "dayTimePeriod",
+        "data": {
+          "type": "during",
+          "period": "sunSet"
+        }
+      },
+      "isha": {
+        "type": "angle",
+        "data": {
+          "angle": 17.0
+        }
+      },
+      "midnight": {
+        "type": "dayTimePeriod",
+        "data": {
+          "type": "range",
+          "from": "sunSetMid",
+          "to": "sunRise"
+        }
+      }
+    },
+    {
+      "id": "ISNA",
+      "name": "Islamic Society of North America",
+      "fajr": {
+        "type": "angle",
+        "data": {
+          "angle": 15.0
+        }
+      },
+      "maghrib": {
+        "type": "dayTimePeriod",
+        "data": {
+          "type": "during",
+          "period": "sunSet"
+        }
+      },
+      "isha": {
+        "type": "angle",
+        "data": {
+          "angle": 15.0
+        }
+      },
+      "midnight": {
+        "type": "dayTimePeriod",
+        "data": {
+          "type": "range",
+          "from": "sunSetMid",
+          "to": "sunRise"
+        }
+      }
+    },
+    {
+      "id": "Egypt",
+      "name": "Egyptian General Authority of Survey",
+      "fajr": {
+        "type": "angle",
+        "data": {
+          "angle": 19.5
+        }
+      },
+      "maghrib": {
+        "type": "dayTimePeriod",
+        "data": {
+          "type": "during",
+          "period": "sunSet"
+        }
+      },
+      "isha": {
+        "type": "angle",
+        "data": {
+          "angle": 17.5
+        }
+      },
+      "midnight": {
+        "type": "dayTimePeriod",
+        "data": {
+          "type": "range",
+          "from": "sunSetMid",
+          "to": "sunRise"
+        }
+      }
+    },
+    {
+      "id": "Makkah",
+      "name": "Makkah",
+      "fajr": {
+        "type": "angle",
+        "data": {
+          "angle": 18.5
+        }
+      },
+      "maghrib": {
+        "type": "dayTimePeriod",
+        "data": {
+          "type": "after",
+          "period": "sunSet",
+          "time": "90",
+          "timeUnits": "min",
+          "ramadan": {
+            "type": "after",
+            "period": "sunSet",
+            "time": "120",
+            "timeUnits": "min"
+          }
+        }
+      },
+      "isha": {
+        "type": "dayTimePeriod",
+        "data": {
+          "type": "after",
+          "period": "sunSet",
+          "time": "90",
+          "timeUnits": "min",
+          "ramadan": {
+            "type": "after",
+            "period": "sunSet",
+            "time": "120",
+            "timeUnits": "min"
+          }
+        }
+      },
+      "midnight": {
+        "type": "dayTimePeriod",
+        "data": {
+          "type": "range",
+          "from": "sunSetMid",
+          "to": "sunRise"
+        }
+      }
+    },
+    {
+      "id": "Karachi",
+      "name": "University of Islamic Sciences, Karachi",
+      "fajr": {
+        "type": "angle",
+        "data": {
+          "angle": 18.0
+        }
+      },
+      "maghrib": {
+        "type": "dayTimePeriod",
+        "data": {
+          "type": "during",
+          "period": "sunSet"
+        }
+      },
+      "isha": {
+        "type": "angle",
+        "data": {
+          "angle": 18.0
+        }
+      },
+      "midnight": {
+        "type": "dayTimePeriod",
+        "data": {
+          "type": "range",
+          "from": "sunSetMid",
+          "to": "sunRise"
+        }
+      }
+    },
+    {
+      "id": "Tehran",
+      "name": "Institute of Geophysics, University of Tehran",
+      "fajr": {
+        "type": "angle",
+        "data": {
+          "angle": 17.7
+        }
+      },
+      "maghrib": {
+        "type": "angle",
+        "data": {
+          "angle": 4.5
+        }
+      },
+      "isha": {
+        "type": "angle",
+        "data": {
+          "angle": 14.0
+        }
+      },
+      "midnight": {
+        "type": "dayTimePeriod",
+        "data": {
+          "type": "range",
+          "from": "sunSetMid",
+          "to": "fajr"
+        }
+      }
+    },
+    {
+      "id": "Jafari",
+      "name": "Shia Ithna Ashari, Leva Research Institute, Qum",
+      "fajr": {
+        "type": "angle",
+        "data": {
+          "angle": 16.0
+        }
+      },
+      "maghrib": {
+        "type": "angle",
+        "data": {
+          "angle": 4.0
+        }
+      },
+      "isha": {
+        "type": "angle",
+        "data": {
+          "angle": 14.0
+        }
+      },
+      "midnight": {
+        "type": "dayTimePeriod",
+        "data": {
+          "type": "range",
+          "from": "sunSetMid",
+          "to": "fajr"
+        }
+      }
+    }
+  ]
+}

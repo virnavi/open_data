@@ -1,0 +1,21 @@
+{
+
+  "data": [
+    {
+      "id": "none",
+      "name": "None"
+    },
+    {
+      "id": "midnight",
+      "name": "Middle of the Night"
+    },
+    {
+      "id": "one7thOfNight",
+      "name": "One-Seventh of the Night"
+    },
+    {
+      "id": "angleBased",
+      "name": "Angle-Based Method"
+    }
+  ]
+}

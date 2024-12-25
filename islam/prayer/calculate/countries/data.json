@@ -1,0 +1,16 @@
+{
+	"bd":{
+		"method":{
+			"default":"Karachi",
+			"options":["Karachi", "Egypt", "MWL",  "ISNA"]
+		},
+		"latitude":{
+			"default":"none",
+			"options":["none", "angleBased", "midnight", "one7thOfNight"]
+		},
+		"asrMethod":{
+			"default":"shafi",
+			"options":["shafi", "hanafi"]
+		},
+	}
+}
