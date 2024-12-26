@@ -29,7 +29,7 @@
     "type": "",
     "path": ""
   },
-  "images": { "flag": { "svg": { "path": "earth/countries/gb/images//flag.svg" } } },
+  "images": { "flag": { "svg": { "path": "earth/countries/gb/images/flag.svg" } } },
   "region": "Europe",
   "people": {
     "native": "United Kingdom",
